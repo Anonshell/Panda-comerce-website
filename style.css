@@ -1,0 +1,16 @@
+.orange-bg {
+  background-color: #fceae8;
+}
+.price {
+  color: #f11eab;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
+.buy-now-button {
+  color: white;
+  border: none;
+  background-color: #f11eab;
+  border-radius: 15%;
+  text-decoration: none;
+}
