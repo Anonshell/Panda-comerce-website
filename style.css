@@ -1,16 +1,65 @@
-.orange-bg {
-  background-color: #fceae8;
+.orange-bg{
+
+        background-color: #FEEAE9;
+
 }
-.price {
-  color: #f11eab;
+
+.carousel{
+  padding: 30px;
 }
-.carousel-item {
-  padding: 20px 40px;
-}
+
 .buy-now-button {
+  background-color: #fb249e;
   color: white;
   border: none;
-  background-color: #f11eab;
-  border-radius: 15%;
-  text-decoration: none;
+  border-radius: 5px;
+}
+.price{
+  color: #fb249e;
+}
+.container{
+  margin-bottom: 100px;
+}
+
+.cat1, .cat2 , .cat3{
+  padding:10px 30px;
+  border-radius: 20px;
+  
+   
+}
+ .categories img{
+  width: 100px;
+ }
+.cat1{
+  background-color: orange;
+}
+.cat2{
+  background-color: blue;
+}
+.cat3{
+  background-color: #fb249e;
+}
+
+.categories h1{
+  color:white;
+}
+.Subscribe{
+  background-color: #FEEAE9;
+
+   height: 300px;
+
+   
+}
+.submit{
+  background-color: #fb249e;
+  border: none;
+  color:white;
+}
+
+footer{
+  text-align: center;
+}
+
+#Subscribe h6{
+  color: gray;
 }
